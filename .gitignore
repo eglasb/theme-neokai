@@ -1,0 +1,12 @@
+# Pasta de configurações específicas do VSCode
+.vscode/
+
+# Pasta de dependências (caso você tenha pacotes npm)
+node_modules/
+
+# Pacote gerado pelo vsce
+*.vsix
+
+# Arquivos temporários de SO
+.DS_Store
+Thumbs.db

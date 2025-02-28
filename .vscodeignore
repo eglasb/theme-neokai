@@ -1,0 +1,8 @@
+# Pasta de configurações do VSCode
+.vscode/
+
+# Outras pastas ou arquivos indesejados
+node_modules/
+.git/
+.DS_Store
+thumbs.db
