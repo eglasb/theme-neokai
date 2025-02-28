@@ -1,7 +1,7 @@
 # Pasta de configurações específicas do VSCode
 .vscode/
 
-# Pasta de dependências (caso você tenha pacotes npm)
+# Pasta de dependências
 node_modules/
 
 # Pacote gerado pelo vsce
