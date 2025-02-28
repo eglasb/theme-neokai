@@ -1,0 +1,18 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            // Nome que aparecerá no painel de Debug
+            "name": "Launch Extension",
+            // Tipo para extensões do VSCode
+            "type": "extensionHost",
+            // Indica que vamos rodar como "launch"
+            "request": "launch",
+            // Este argumento diz ao VSCode
+            // que a pasta atual contém os arquivos da extensão.
+            "args": [
+                "--extensionDevelopmentPath=${workspaceFolder}"
+            ]
+        }
+    ]
+}
